@@ -1,0 +1,42 @@
+{
+  "botOwnerId": "858897729031372870",
+  "staffRoleId": "1290051818545479680",
+
+  "ticketConfig": {
+    "allowedChannelId": "1296881411076395008",
+    "logFormChannelId": "1295881941018480712",
+    "categoryId": "1284276079401500763",
+    "logTicketChannelId": "1290058994794106881",
+    "roles": {
+      "member": "1284263397990596659",
+      "visitor": "1284263365547397120",
+      "partner": "1284530600287670303"
+    },
+    "additionalRoleId": "1290029716241256600",
+    "removeRoleId": "1290029492856815696"
+  },
+
+  "verifyConfig": {
+    "allowedChannelId": "1326721693221261373",
+    "logVerifyChannelId": "1294001474388492299",
+    "rolesToAdd": [
+      "1284263406563491870"
+    ],
+    "rolesToRemove": [
+      "1315356051385749634"
+    ],
+    "preserveMessageId": "1329298757182820363",
+    "ticketChannelId": "1284276368598761573"
+  },
+
+  "welcomeGeneralChatConfig": {
+    "roleId": "1290029716241256600",
+    "welcomeChannelId": "1284257046740602901",
+    "rulesChannelId": "1284257720261804123",
+    "registerChannelId": "1284258011560542332",
+    "colorsChannelId": "1296503545771720704",
+    "groupChannelId": "1284259436596166706",
+    "clothesChannelId": "1284259266684780645",
+    "skinReferencesChannelId": "1289699941085610106"
+  }
+}
